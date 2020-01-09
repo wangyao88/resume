@@ -1743,12 +1743,20 @@ submit
     text-transform: uppercase;
 }
 
+.text-lower {
+    text-transform: lowercase;
+}
+
 .text-lead {
     font-size: 1.5em;
 }
 
 .text-thin {
     font-weight: 400;
+}
+
+.text-bold {
+    font-weight: bold;
 }
 
 .ace-mobile.ace-lock-scroll,
